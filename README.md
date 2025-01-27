@@ -1,6 +1,5 @@
 # MyMovies
 
-## Descrição
 O **MyMovies** é um site fictício de filmes desenvolvido como parte de um projeto acadêmico. O site foi criado em poucas horas com base em um wireframe de baixa qualidade proposto pelo professor, sendo aprimorado ao longo do desenvolvimento para oferecer uma experiência visual mais refinada. O projeto apresenta uma plataforma interativa para descoberta e organização de filmes, contando com seções de categorias, avaliações e informações sobre diversos títulos.
 
 ## Tecnologias Utilizadas
